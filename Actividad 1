@@ -1,3 +1,5 @@
+// Daniel Macias Hernandez smokem71@gmail.com
+
 import UIKit
 
 class DetailViewController: UIViewController {
